@@ -14,4 +14,4 @@ Python Scripts to perform automation
 [default]
 region = your_aws_region
 ```
-
+Install python3 and boto3 package using pip
