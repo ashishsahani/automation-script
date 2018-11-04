@@ -2,7 +2,7 @@
 Python Scripts to perform automation
 
 1. Create a folder name .aws in home directory
-2. Create a file 'credentials' inside .aws directory and add your aws access key id a
+2. Create a file 'credentials' inside .aws directory and add your aws access key and secret
 
 ```
   [default]
